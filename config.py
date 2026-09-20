@@ -11,7 +11,7 @@ TOKEN = "8988915703:AAFvVSfeb4oqb-6W6mzCXftyr1mmxOVHhzs"
 BOT_USERNAME = "Rishton_bagdod_taxi_bot"  # @ belgisiz
 
 # ==================== ADMIN ====================
-ADMINS = [6731395876, 6302873072]                # admin(lar) telegram ID si
+ADMINS = [6731395876, 994898436]                # admin(lar) telegram ID si
 ADMIN_PHONE = "+998940081100"         # admin telefon raqami (foydalanuvchiga ko'rsatiladi)
 ADMIN_USERNAME = "@Taksi_2300"     # admin telegram username (foydalanuvchiga ko'rsatiladi)
 
